@@ -56,7 +56,7 @@ interface MercadoBitcoinService {
 
 Atualizando a tela com dados em tempo real
 
-Dentro da MainActivity, o app usa Coroutines (CoroutineScope) para fazer a chamada assíncrona e atualizar a interface assim que o botão "Atualizar" for clicado.
+Dentro da MainActivity, o app usa Coroutines (CoroutineScope) para fazer a chamada e atualizar a interface assim que clicar no botão atualiar.
 
 Além disso, o app formata:
 
